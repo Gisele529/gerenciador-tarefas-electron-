@@ -3,3 +3,39 @@
     padding: 0; /* Espaçamentos internos */
     box-sizing: border-box; /* tamanho da caixa */
 }
+
+body {
+    font-family: Arial;
+    background-color: brown;
+}
+
+div {
+  background-color: darkgreen; 
+  max-Width: 400px;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+  input {
+    border: 2px solid purple;
+  }
+
+    .Add {
+        background-color: blue;
+        color: red;
+        padding: 8px;
+    }
+
+    li {
+    margin-top: 20px; 
+    } 
+
+       list-style: nome;
+       font-weight: bold;
+       margin-bottom: 10px;
+    
+
+
+
+}
