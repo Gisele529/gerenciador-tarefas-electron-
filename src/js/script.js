@@ -1,4 +1,4 @@
-function addlask(){
+function addtask(){
 
     var input = document.getElementById("input-tarefa").type
 
